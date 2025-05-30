@@ -21,12 +21,12 @@
 ### 1. Live Sensor Data Screen  
 Real-time health vitals are displayed in colorful animated circular charts:
 
-![Live Sensor Data](1.jpeg)
+![Live Sensor Data](/1.jpg)
 
 ### 2. Predict Health Risk Form  
 Enter personal details to get a machine learning-based risk prediction:
 
-![Predict Health Risk](2.jpeg)
+![Predict Health Risk](/2.jpg)
 
 ---
 
