@@ -12,7 +12,6 @@
 - 🔥 Firebase Realtime Database Integration  
 - 📊 Beautiful Animated Live Charts  
 - 🌗 Dark Mode UI Support  
-- 🔊 Voice Alerts for Abnormal Readings  
 - 📱 Mobile-Friendly Flutter UI  
 
 ---
@@ -22,12 +21,12 @@
 ### 1. Live Sensor Data Screen  
 Real-time health vitals are displayed in colorful animated circular charts:
 
-![Live Sensor Data]()
+![Live Sensor Data](1.jpeg)
 
 ### 2. Predict Health Risk Form  
 Enter personal details to get a machine learning-based risk prediction:
 
-![Predict Health Risk]()
+![Predict Health Risk](2.jpeg)
 
 ---
 
