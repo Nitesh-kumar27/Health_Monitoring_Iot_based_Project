@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "181589298112",
+    "firebase_url": "https://health-monitering27-default-rtdb.firebaseio.com",
+    "project_id": "health-monitering27",
+    "storage_bucket": "health-monitering27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181589298112:android:547156e701bc4fca531625",
+        "android_client_info": {
+          "package_name": "com.example.health_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXwc6bx62LWNfglCBjbdbZvJ33DFzUKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
