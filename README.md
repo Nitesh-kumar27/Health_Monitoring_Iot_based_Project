@@ -87,18 +87,18 @@ The app uses Firebase to:
 ```
 /Health_Monitoring_Iot_based_project
 │
-├── /Flask_app             # Jupyter notebook + model generation code
+├── /Flask_app                                 # Jupyter notebook + model generation code
 |     ├── Flask_api
-            ├── Project_render_repo  # main repo to published on github and shared to render to run
-            |      ├── app.py #  flask api
-            |      ├──  Procfile # used on render to set
-            |      ├──  random_forest.pkl #  Random forest trained module
-            |      ├──  requirement.txt  # to get requirement on render   
-            ├──  generate_module.py  # is used to generate pkl file
-            ├── curl.py  # used to check api working 
-├── /Flutter_app            # Flutter source code
-|     ├── /health_mate        # Flutter App
-├── /NodeMCU               # ESP8266 firmware code (Arduino)         
+            ├── Project_render_repo            # main repo to published on github and shared to render to run
+            |      ├── app.py                  # flask api
+            |      ├──  Procfile               # used on render to set
+            |      ├──  random_forest.pkl      # Random forest trained module
+            |      ├──  requirement.txt        # to get requirement on render   
+            ├──  generate_module.py            # is used to generate pkl file
+            ├── curl.py                        # used to check api working 
+├── /Flutter_app                               # Flutter source code
+|     ├── /health_mate                         # Flutter App
+├── /NodeMCU                                   # ESP8266 firmware code (Arduino)         
 ```
 
 ---
