@@ -11,7 +11,7 @@
 
 // Firebase Credentials
 #define FIREBASE_HOST "health-monitering27-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "dylER15Tu6sfc90tQdWwowl1T42Gq43rHP0v67YE"
+#define FIREBASE_AUTH "dy--------------YE"
 
 // Firebase objects
 FirebaseData firebaseData;
